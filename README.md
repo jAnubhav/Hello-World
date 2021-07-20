@@ -1,2 +1,2 @@
 # Hello World
-My first program to print Hello World in different programming languages.
+My first repository that contains the "Hello, World!" program in different programming languages.
